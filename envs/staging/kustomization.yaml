@@ -6,4 +6,4 @@ patchesStrategicMerge:
   - secret.yaml
   - backend-patch.yaml
   - frontend-patch.yaml
-  - batabase-patch.yaml
+  - database-patch.yaml
